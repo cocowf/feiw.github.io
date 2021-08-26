@@ -1,36 +1,57 @@
-## Welcome to GitHub Pages
+## Fei Wang     
 
-You can use the [editor on GitHub](https://github.com/cocowf/feiw.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+(+86)18700938577   feiwang_faye2021@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interests 
 
-### Markdown
+Focus on Automatic Speech Recognition(ASR), by using RNN, CNN, LSTMs, attention model and CTC model previously. Other expertise lies in general machine learning and deep learning. Expect to participate in outstanding AI algorithm team, and delve into frontier field includes NLP deeper.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+Shaanxi Normal University, Xi’an, China
+M.Eng. Electronics and Communications Engineering	09/2016 - 06/2018
 
-# Header 1
-## Header 2
-### Header 3
+Xi’an University of Technology, Xi’an, China
+B.S. Electrical Engineering and its Automation 	09/2012 - 06/2016  
 
-- Bulleted
-- List
+### Professional Experience 
 
-1. Numbered
-2. List
+Seedland, Beijing, China	06/2020 - 12/2020
+Speech Recognition Engineer  
+  Assisted with data cleaning & audio processing 
 
-**Bold** and _Italic_ and `Code` text
+UBTECH, Shenzhen, China	07/2019 - 06/2020
+Speech Recognition Engineer
+  Experienced in Acoustic modeling and encoder in ASR systems
+  Responsible for model building, training & modifying, mainly for Acoustic model   
+  Completed research, implementation and optimization with related algorithm by Pytorch, which includes network reconstruction, adversarial regularization training and augmention methods, respectively improved model performance by 1.8%, 1.5% and 2.3%
 
-[Link](url) and ![Image](src)
-```
+TwirlingVR, Beijing, China	10/2018 - 04/2019
+Speech Recognition Engineer  
+  Audio processing with common toolbox that included Audition, Sox, etc.
+  Responsible for model construction & training network with framework Tensorflow 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Skills
 
-### Jekyll Themes
+Programming Languages: Python, Shell Script
+Frameworks: PyTorch, Tensorflow, Caffe
+Others and Soft Skills: Linux, Anaconda, etc
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cocowf/feiw.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Awards
 
-### Support or Contact
-feiwang
+Outstanding Graduates	 2016
+The Chinese Mathematics Competitions in Shaanxi Province, Second Prize 	2015
+Second Prize Scholarship, 3 times(5%)  	2014 - 2016
+National Encouragement Scholarship, Once(1.8%)	 2013
+Pacemaker to Merit Student 	 2013
+
+### Certificates
+
+Second-level Certificate for National Computer
+Third-level Certificate for National Computer
+CET6
+CET4
+
+### Publications
+
+Fei Wang, Qiuju Yang, Auroral images Classification based on Convolutional Neural Networks, Chinese Journal of Polar Research, 30, 123 - 131, 2018.
