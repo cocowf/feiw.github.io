@@ -17,17 +17,17 @@ B.S. Electrical Engineering and its Automation 	09/2012 - 06/2016
 ### Professional Experience 
 
 Seedland, Beijing, China	06/2020 - 12/2020  
-**Speech Recognition Engineer**  
+**Speech Recognition Engineer**
 * Assisted with data cleaning & audio processing 
 
 UBTECH, Shenzhen, China	07/2019 - 06/2020  
-**Speech Recognition Engineer**  
+**Speech Recognition Engineer**
 * Experienced in Acoustic modeling and encoder in ASR systems  
 * Responsible for model building, training & modifying, mainly for Acoustic model   
 * Completed research, implementation and optimization with related algorithm by Pytorch, which includes network reconstruction, adversarial regularization training and augmention methods, respectively improved model performance by 1.8%, 1.5% and 2.3%  
 
 TwirlingVR, Beijing, China	10/2018 - 04/2019      
-**Speech Recognition Engineer**        
+**Speech Recognition Engineer**
 * Audio processing with common toolbox that included Audition, Sox, etc.  
 * Responsible for model construction & training network with framework Tensorflow  
 
